@@ -10,7 +10,7 @@ workspace "Name" "Description" {
         clientHead = person "Head of Clients"
         projectLead = person "Project Lead"
 
-        externalOAuth2ResourceServer = softwareSystem "Office 365" "Holds information on active employees"
+        externalOAuth2ResourceServer = softwareSystem "OAuth/2 Resource Server" "This is the ideal store for user information"
 
         salesApplication = softwareSystem "External Sales Management Application" "External Application for tracking the progress of sales"
 
